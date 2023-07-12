@@ -1,0 +1,20 @@
+# OS X
+.DS_Store
+
+# Eclipse
+.settings
+.project
+.classpath
+/build/
+/bin/
+/target/
+
+# Rstudio
+.R* 
+
+# Python
+*.pyc
+.idea
+
+data/xcms/snthresh=10-noise=100-ppm=25-peakwidth_min=5-peakwidth_max=20.rds
+data/highresnps/snthresh=10-noise=100-ppm=25-peakwidth_min=5-peakwidth_max=20.rds
